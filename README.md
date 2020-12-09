@@ -49,7 +49,8 @@
 
 ### 实验结果
 ----
-![](https://github.com/Mellisa1002/javalab3/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201024200700.png)
+![](https://github.com/Mellisa1002/JavaLab5/blob/main/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
+![](https://github.com/Mellisa1002/JavaLab5/blob/main/%E7%BB%93%E6%9E%9CA.png)
 
 <br>
 
@@ -61,9 +62,7 @@
 2.根据不同的功能确定需要有的基本类和方法<br>
 3.重写toString（）方法，来实现对学生信息的简单调用<br>
 
-### 流程图
-----
-![](https://github.com/Mellisa1002/javalab3/blob/main/9566eac7b5cb52137c6a8e5a02a078a.png)
+
 
 ### 核心代码
 
